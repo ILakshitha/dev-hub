@@ -1,0 +1,9 @@
+{
+  "label": "Server Architecture",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Server Architecture: A Learning Path",
+    "description": "An 8-part series that builds a complete mental model of how servers actually work — from sockets and threads up through Tomcat, Netty, and the Spring ecosystem. Read in order if you're new; jump to a specific doc if you already know the basics."
+  }
+}
