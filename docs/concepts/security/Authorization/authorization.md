@@ -20,9 +20,9 @@ tags: [spring-boot, security, authorization, rbac, method-security, access-contr
 
 :::note Prerequisites
 This guide assumes you have:
-- [Spring Security configured](./security-configuration) with `SecurityConfig`
-- [Custom UserDetailsService & UserPrincipal](./user-principal) implemented
-- [JWT or session-based authentication](./jwt-authentication) in place
+- Spring Security configured with `SecurityConfig`
+- Custom UserDetailsService & UserPrincipal implemented
+- JWT or session-based authentication in place
 - Basic understanding of Spring Security concepts (Authentication, Authorization, GrantedAuthority)
 :::
 
