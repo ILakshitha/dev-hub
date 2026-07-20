@@ -47,6 +47,10 @@ ci-cd:
   label: CI/CD
   permalink: /ci-cd
 
+sql:
+  label: SQL
+  permalink: /sql
+
 ## Content type tags
 til:
   label: TIL

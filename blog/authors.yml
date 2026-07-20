@@ -14,6 +14,13 @@ kavinda:
   image_url: https://github.com/kavinda.png
   page: true
 
+lahiru:
+  name: Ishan Lakshitha
+  title: Software Engineer
+  url: https://github.com/ceycode
+  image_url: https://github.com/ceycode.png
+  page: true
+
 ceycode-team:
   name: Ceycode Engineering
   title: Shared team account
